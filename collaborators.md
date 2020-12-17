@@ -13,4 +13,4 @@ title: Collaborators
 * [Dr. Hong Yu](http://bio-nlp.org/), Principal Investigator, UMass Medical School, Worcestor, USA
 * [Dr. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/), Assistant Professor, ECE Dept, Carnegie Mellon University, USA
 * [Dr. Robert Nowak](https://nowak.ece.wisc.edu/), Professor, ECE Dept, University of Wisconsin-Madison, USA
-* [Ardhendu S. Tripathy](https://astripathy.github.io/), Assistant Professor, Department of Computer Science, Missouri University of Science & Technology, USA
+* [Dr. Ardhendu S. Tripathy](https://astripathy.github.io/), Assistant Professor, Department of Computer Science, Missouri University of Science & Technology, USA
