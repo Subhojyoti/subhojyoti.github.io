@@ -4,9 +4,25 @@ title: Publications
 ---
 
 
-# Peer-reviewed Conferences 
+# Peer-reviewed Conferences and Journals
 
-1. *"Efficient UCBV: An Almost Optimal Algorithm using Variance Estimates"*, Subhojyoti Mukherjee, K.P. Naveen, Nandan Sudarsanam, and Balaraman Ravindran, **Proceedings of the Thirty-Second Association for the Advancement of Artificial Intelligence (AAAI-18)**.
+
+1. *"A Unified Approach to Translate Classical Bandit Algorithms to the Structured Bandit Setting"*, Samarth Gupta, Shreyas Chaudhari, Subhojyoti Mukherjee, Gauri Joshi, Osman Yağan, **Special Issue on Estimation and Inference paper in the IEEE Journal on Selected Areas in Information Theory**.
+
+   * ### Abstract ###
+   
+      <details>
+        <summary>
+          Show details
+        </summary>
+          <p>We consider a finite-armed structured bandit problem in which mean rewards of different arms are known functions of a common hidden parameter θ∗. Since we do not place any restrictions of these functions, the problem setting subsumes several previously studied frameworks that assume linear or invertible reward functions. We propose a novel approach to gradually estimate the hidden θ∗ and use the estimate together with the mean reward functions to substantially reduce exploration of sub-optimal arms. This approach enables us to fundamentally generalize any classic bandit algorithm including UCB and Thompson Sampling to the structured bandit setting. We prove via regret analysis that our proposed UCB-C and TS-C algorithms (structured bandit versions of UCB and Thompson Sampling, respectively) pull only a subset of the sub-optimal arms O(logT) times while the other sub-optimal arms (referred to as non-competitive arms) are pulled O(1) times. As a result, in cases where all sub-optimal arms are non-competitive, which can happen in many practical scenarios, the proposed algorithms achieve bounded regret. We also conduct simulations on the Movielens recommendations dataset to demonstrate the improvement of the proposed algorithms over existing structured bandit algorithms.</p>
+      </details>
+   
+   * ### Full Paper ###
+   
+      [**PDF**](https://ieeexplore.ieee.org/document/9276444)
+
+2. *"Efficient UCBV: An Almost Optimal Algorithm using Variance Estimates"*, Subhojyoti Mukherjee, K.P. Naveen, Nandan Sudarsanam, and Balaraman Ravindran, **Proceedings of the Thirty-Second Association for the Advancement of Artificial Intelligence (AAAI-18)**.
 
    * ### Abstract ###
    
@@ -21,7 +37,7 @@ title: Publications
    
       [**PDF**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16111)
 
-2. *"Thresholding Bandits with Augmented UCB"*, Subhojyoti Mukherjee, K. P. Naveen, Nandan Sudarsanam, Balaraman Ravindran, **Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17)**.
+3. *"Thresholding Bandits with Augmented UCB"*, Subhojyoti Mukherjee, K. P. Naveen, Nandan Sudarsanam, Balaraman Ravindran, **Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17)**.
    
    * ### Abstract ###
    
