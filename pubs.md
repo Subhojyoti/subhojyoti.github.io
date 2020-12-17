@@ -38,7 +38,21 @@ title: Publications
 
 # Peer-reviewed Workshops
 
-1. *"Distribution-dependent and Time-uniform Bounds for Piecewise i.i.d Bandits"*, Subhojyoti Mukherjee, Odalric-Ambrym Maillard, **An initial version was accepted at Reinforcement Learning for Real Life (RL4RealLife) Workshop in the 36 th International Conference on Machine Learning, Long Beach, California, USA, 2019 (ICML-19)**.
+1. *"Generalized Chernoff Sampling for Active Learning and Structured Bandit Algorithms"*, Subhojyoti Mukherjee, Ardhendu Tripathy, Robert Nowak, **An initial version was accepted at the Theoretical Foundations of Reinforcement Learning Workshop in the 37 th International Conference on Machine Learning, 2020 (ICML-20)**.
+   
+   * ### Abstract ###
+   
+      <details>
+      <summary>
+          Show details
+      </summary>
+        <p>Active learning and structured stochastic bandit problems are intimately related to the classical problem of sequential experimental design. This paper studies active learning and best-arm identification in structured bandit settings from the viewpoint of active sequential hypothesis testing, a framework initiated by Chernoff (1959). We first characterize the sample complexity of Chernoff's original procedure by uncovering terms that reduce in significance as the allowed error probability δ→0, but are nevertheless relevant at any fixed value of δ>0. While initially proposed for testing among finitely many hypotheses, we obtain the analogue of Chernoff sampling for the case when the hypotheses belong to a compact space. This makes it applicable to active learning and structured bandit problems, where the unknown parameter specifying the arm means is often assumed to be an element of Euclidean space. Empirically, we demonstrate the potential of our proposed approach for active learning of neural network models and in the linear bandit setting, where we observe that our general-purpose approach compares favorably to state-of-the-art methods.</p>
+        </details>
+   * ### Full Paper ###  
+   
+      [**PDF**](https://arxiv.org/abs/2012.08073)
+
+2. *"Distribution-dependent and Time-uniform Bounds for Piecewise i.i.d Bandits"*, Subhojyoti Mukherjee, Odalric-Ambrym Maillard, **An initial version was accepted at the Reinforcement Learning for Real Life (RL4RealLife) Workshop in the 36 th International Conference on Machine Learning, Long Beach, California, USA, 2019 (ICML-19)**.
    
    * ### Abstract ###
    
